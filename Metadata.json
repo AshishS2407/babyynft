@@ -1,0 +1,39 @@
+[
+  {
+    "description": "Picture of a happpy baby",
+    "external_url": "https://kba.ai/",
+    "image": "https://plum-impressive-kingfisher-250.mypinata.cloud/ipfs/QmVmoiPEuqePgVNVuUeLWJs3WGwiGvUKkvGQ2FybKVLRMm",
+    "name": "Happy Baby",
+    "attributes": [
+      {
+        "trait_type": "Background colour",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Big"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      }
+    ]
+  },
+
+  {
+    "description": "Picture of a birthday celebration",
+    "external_url": "https://kba.ai/",
+    "image": "https://plum-impressive-kingfisher-250.mypinata.cloud/ipfs/QmcyGJPbWjj1QEKAdFrHUUYbLXt9N6MhaRZVs5WqVrYQdQ",
+    "name": "Birthday",
+    "attributes": [
+      {
+        "trait_type": "Colou",
+        "value": "White"
+      },
+      {
+        "trait_type": "Party",
+        "value": "Birthday"
+      }
+    ]
+  }
+]
